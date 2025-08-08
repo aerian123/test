@@ -20,6 +20,7 @@ public class Ex00FirstServlet extends HttpServlet {
 		super.init(config);
 		System.out.println("init() 실행!");
 		//이부분 추가해주세요
+		// 어떤 부분이신지 정확하게 이야기 해주세요.
 	}
 	
 	//사용자의 요청 및 응답 처리
